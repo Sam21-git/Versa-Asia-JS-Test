@@ -63,6 +63,6 @@ Or simply using shortcut `CTRL + ALT + N`
 After run the script, the result will be shown in the terminal. 
 
 ![Result 2](https://i.imgur.com/QvZ6eiU.png)
-Open the `output.json` file to view the generated JSON content.
+`output.json` will be created and can be opened to view the output.
 
 #### Feel free to reach out if you encounter any difficulties or have further questions.
